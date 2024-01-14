@@ -1,0 +1,99 @@
+{
+    "title": {
+        "title": "Updated digitalex"
+    },
+    "nav": {
+        "nav0": "Updated Home",
+        "nav1": "Updated About",
+        "nav2": "Updated Services",
+        "nav3": "Updated News",
+        "nav4": "Updated Contact"
+    },
+    "banner": {
+        "b0": "Updated Progress and Success",
+        "b1": "Updated c u r r e n c y",
+        "b2": "Updated It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable",
+        "b3": "Updated Progress and Success",
+        "b4": "Updated c u r r e n c y",
+        "b5": "Updated It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable",
+        "b6": "Updated Progress and Success",
+        "b7": "Updated c u r r e n c y",
+        "b8": "Updated It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable"
+    },
+    "about": {
+        "a0": "update ABOUT US Welcome TO OUR DEGITALEX ",
+        "a1": "update Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
+        "a2": "update Read More"
+    },
+    "service": {
+        "s0": "updated Services consectetur adipiscing elit",
+        "s1": "update Safe (&) Secure",
+        "s2": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s3": "Read More",
+        "s4": "Wallet",
+        "s5": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s6": "Read More",
+        "s7": "Experts Support",
+        "s8": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s9": "Read More",
+        "s10": "Mobile Apps",
+        "s11": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s12": "Read More"
+    },
+    "bitcoin": {
+        "bi0": "update Buy and Sell Bitcoins Why are so many people investing in digital",
+        "bi1": "Start Now"
+    },
+    "wallet": {
+        "w0": "update wallet A MOST POWERFUL WALLET USE THIS WALLET FOR NEXT SECURE TRANSACTION.",
+        "w1": "Make wallet"
+    },
+    "subscribe": {
+        "d0": "update Subscribe to our newsletter",
+        "d1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,"
+    },
+    "testimonial": {
+        "t0": "update Testimonial What is says our clients",
+        "t1": "distracted by",
+        "t2": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,",
+        "t3": "distracted by",
+        "t4": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,",
+        "t5": "distracted by",
+        "t6": "It is a long es tablished fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,",
+        "t7": "distracted by",
+        "t8": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,"
+    },
+    "footer": {
+        "f0": "updated reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal di",
+        "f1": "Quick link",
+        "f": "Home",
+        "f2": "about",
+        "f3": "Currency",
+        "f4": "Exchange",
+        "f5": "Subscribe",
+        "f6": "Instagram",
+        "f7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ",
+        "f8": "update Contact us",
+        "f9": "Reader will be dis tracted by the reada",
+        "f10": "demo@gmail.com",
+        "f11": "+01 102586954775",
+        "f12": "Copyright 2019 All Right Reserved By ",
+        "f13": "Free  html Templates"
+    },
+    "images": {
+        "img1": "images/loading.gif",
+        "img2": "images/logo.png",
+        "img3": "images/ban_img.png",
+        "img4": "images/ban_img.png",
+        "img5": "images/ban_img.png",
+        "img6": "images/about.png",
+        "img7": "images/bitcoins.jpg",
+        "img8": "images/wallet.jpg",
+        "img9": "images/test.png",
+        "img10": "images/test.png",
+        "img11": "images/test.png",
+        "img12": "images/test.png",
+        "img13": "images/map-(1).png",
+        "img14": "images/loogo2.png"
+    }
+}
