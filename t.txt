@@ -80,6 +80,20 @@
         "f12": "Copyright 2019 All Right Reserved By ",
         "f13": "Free  html Templates"
     },
+
+       "color":{
+        "header":"grey",
+        "about":"red",
+        "service":"red",
+        "bitcoin":"grey",
+        "wallet":"red",
+        "subscribe":"grey",
+        "testimonial":"red",
+        "contact":"grey",
+        "footer":"red"
+     },
+
+
     "images": {
         "img1": "images/loading.gif",
         "img2": "images/logo.png",

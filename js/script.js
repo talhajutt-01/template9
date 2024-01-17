@@ -69,6 +69,16 @@ const f11 = document.getElementById('f11');
 const f12 = document.getElementById('f12');
 const f13 = document.getElementById('f13');
 
+const g0 = document.getElementById('header');
+const g1 = document.getElementById('about');
+const g2 = document.getElementById('service');
+const g3 = document.getElementById('bitcoin');
+const g4 = document.getElementById('wallet');
+const g5 = document.getElementById('subscribe');
+const g6 = document.getElementById('testimonial');
+const g7 = document.getElementById('contact');
+const g8 = document.getElementById('footer');
+
 
 const img1 = document.getElementById('img1');
 const img2 = document.getElementById('img2');
@@ -102,6 +112,11 @@ function updateContent(element, newValue) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
 }
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
+}
+
 
   
   // Fetch JSON data from the text file
@@ -178,6 +193,16 @@ function updateContent(element, newValue) {
             updateContent(f11, jsonData.footer.f11);
             updateContent(f12, jsonData.footer.f12);
             updateContent(f13, jsonData.footer.f13);
+
+            updateBackgroundColor(g0, jsonData.color.header);
+            updateBackgroundColor(g1, jsonData.color.about);
+            updateBackgroundColor(g2, jsonData.color.service);
+            updateBackgroundColor(g3, jsonData.color.bitcoin);
+            updateBackgroundColor(g4, jsonData.color.wallet);
+            updateBackgroundColor(g5, jsonData.color.subscribe);
+            updateBackgroundColor(g6, jsonData.color.testimonial);
+            updateBackgroundColor(g7, jsonData.color.contact);
+            updateBackgroundColor(g7, jsonData.color.footer);
 
             updateImageSrc(img1, jsonData.images.img1);
             updateImageSrc(img2, jsonData.images.img2);

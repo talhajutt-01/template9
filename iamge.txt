@@ -1,0 +1,18 @@
+{
+     "images": {
+        "img1": "images/loading.gif",
+        "img2": "images/logo.png",
+        "img3": "images/ban_img.png",
+        "img4": "images/ban_img.png",
+        "img5": "images/ban_img.png",
+        "img6": "images/about.png",
+        "img7": "images/bitcoins.jpg",
+        "img8": "images/wallet.jpg",
+        "img9": "images/test.png",
+        "img10": "images/test.png",
+        "img11": "images/test.png",
+        "img12": "images/test.png",
+        "img13": "images/map-(1).png",
+        "img14": "images/loogo2.png"
+    }
+}
