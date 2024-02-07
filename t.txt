@@ -3,57 +3,57 @@
         "title": "Updated digitalex"
     },
     "nav": {
-        "nav0": "Updated Home",
-        "nav1": "Updated About",
-        "nav2": "Updated Services",
-        "nav3": "Updated News",
-        "nav4": "Updated Contact"
+        "nav0": "Home",
+        "nav1": "About",
+        "nav2": "Services",
+        "nav3": "News",
+        "nav4": "Contact"
     },
     "banner": {
-        "b0": "Updated Progress and Success",
-        "b1": "Updated c u r r e n c y",
-        "b2": "Updated It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable",
-        "b3": "Updated Progress and Success",
-        "b4": "Updated c u r r e n c y",
-        "b5": "Updated It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable",
-        "b6": "Updated Progress and Success",
-        "b7": "Updated c u r r e n c y",
-        "b8": "Updated It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable"
+        "b0": "Progress and Success",
+        "b1": "c u r r e n c y",
+        "b2": "It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable",
+        "b3": "Progress and Success",
+        "b4": "c u r r e n c y",
+        "b5": "It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable",
+        "b6": "Progress and Success",
+        "b7": "c u r r e n c y",
+        "b8": "It is a long established fact that a reader will be distracted by the readable It is a long established fact that a reader will be distracted by the readable"
     },
     "about": {
-        "a0": "update ABOUT US Welcome TO OUR DEGITALEX ",
-        "a1": "update Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
-        "a2": "update Read More"
+        "a0": "ABOUT US Welcome TO OUR DEGITALEX ",
+        "a1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco ",
+        "a2": "Read More"
     },
     "service": {
-        "s0": "updated Services consectetur adipiscing elit",
+        "s0": "Services consectetur adipiscing elit",
         "s1": "update Safe (&) Secure",
-        "s2": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s2": "ncididunt ut labore et dolore magna aliqua. Ut enim",
         "s3": "Read More",
         "s4": "Wallet",
-        "s5": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s5": "ncididunt ut labore et dolore magna aliqua. Ut enim",
         "s6": "Read More",
         "s7": "Experts Support",
-        "s8": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s8": "ncididunt ut labore et dolore magna aliqua. Ut enim",
         "s9": "Read More",
         "s10": "Mobile Apps",
-        "s11": "updated ncididunt ut labore et dolore magna aliqua. Ut enim",
+        "s11": "ncididunt ut labore et dolore magna aliqua. Ut enim",
         "s12": "Read More"
     },
     "bitcoin": {
-        "bi0": "update Buy and Sell Bitcoins Why are so many people investing in digital",
+        "bi0": "Buy and Sell Bitcoins Why are so many people investing in digital",
         "bi1": "Start Now"
     },
     "wallet": {
-        "w0": "update wallet A MOST POWERFUL WALLET USE THIS WALLET FOR NEXT SECURE TRANSACTION.",
+        "w0": "wallet A MOST POWERFUL WALLET USE THIS WALLET FOR NEXT SECURE TRANSACTION.",
         "w1": "Make wallet"
     },
     "subscribe": {
-        "d0": "update Subscribe to our newsletter",
+        "d0": "Subscribe to our newsletter",
         "d1": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,"
     },
     "testimonial": {
-        "t0": "update Testimonial What is says our clients",
+        "t0": "Testimonial What is says our clients",
         "t1": "distracted by",
         "t2": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,",
         "t3": "distracted by",
@@ -64,7 +64,7 @@
         "t8": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,"
     },
     "footer": {
-        "f0": "updated reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal di",
+        "f0": "reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal di",
         "f1": "Quick link",
         "f": "Home",
         "f2": "about",
@@ -80,16 +80,15 @@
         "f12": "Copyright 2019 All Right Reserved By ",
         "f13": "Free  html Templates"
     },
-
-       "color":{
-        "header":"grey",
-        "about":"red",
-        "service":"red",
-        "bitcoin":"grey",
-        "wallet":"red",
-        "subscribe":"grey",
-        "testimonial":"red",
-        "contact":"grey",
-        "footer":"red"
-     }
+    "color": {
+        "header": ".",
+        "about": ".",
+        "service": ".",
+        "bitcoin": ".",
+        "wallet": ".",
+        "subscribe": ".",
+        "testimonial": ".",
+        "contact": ".",
+        "footer": "."
+    }
 }

@@ -233,13 +233,3 @@ Promise.all([fetchJson1, fetchJson2])
         })
         .catch(error => console.error('Error fetching or parsing JSON:', error));
 }
-
-// Call the function to update content when the page loads
-window.addEventListener('load', function () {
-    console.log('page loaded');
-    // Get the current page URL
-    const currentPage = window.location.pathname;
-
-    // Update content based on the current page
-    updatePageContent(currentPage);
-});

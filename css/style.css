@@ -426,13 +426,13 @@ ul.btn li:last-child {
 }
 
 #banner1 a.carousel-control-prev {
-     left: 26%;
-     position: absolute;
+     margin-left: -85px;
+     margin-top: -150px;
 }
 
 #banner1 a.carousel-control-next {
-     left: 31%;
-     position: absolute;
+     margin-right: -85px;
+     margin-top: -140px;
 }
 
 #banner1 .carousel-control-next,
